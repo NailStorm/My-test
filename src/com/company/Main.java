@@ -5,6 +5,8 @@ import java.util.concurrent.TimeUnit;
 import static java.lang.System.out;
 
 /**
+ * Used IntelliJ IDEA 2018.3 and Java 11
+ *
  * TASK:
  * В ночной клуб приходят мальчики и девочки. Каждый персонаж, пришедший в ночной клуб
  * может обладать разными навыками танцевать под разную музыку.
